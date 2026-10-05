@@ -2,7 +2,7 @@
 
 full-stack product engineer in the czech republic. react and typescript on top, node underneath. i'd rather own the whole vertical slice, api to UI, than half of it.
 
-looking for what's next: remote product engineering, CET/EMEA hours. my last contract wrapped in august 2026, so the calendar is open. the [portfolio](https://thatmike1.portfolio.ssscribe.app) has case studies and a CV; [/hire](https://thatmike1.portfolio.ssscribe.app/hire) is the fast version for recruiters.
+looking for what's next: remote product engineering, CET/EMEA hours. my last contract wrapped in august 2026, so the calendar is open. the [portfolio](https://thatmike1.dev) has case studies and a CV; [/hire](https://thatmike1.dev/hire) is the fast version for recruiters.
 
 #### things i built because i wanted to
 
@@ -22,4 +22,4 @@ NDAs cover the client work, so descriptors instead of names. the piece i'd show 
 
 all of it under one long remote contract (atreo digital, april 2024 to august 2026) plus freelance work on the side.
 
-reach me at misa.psencik@gmail.com or through the [portfolio](https://thatmike1.portfolio.ssscribe.app).
+reach me at misa.psencik@gmail.com or through the [portfolio](https://thatmike1.dev).
