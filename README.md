@@ -31,6 +31,6 @@ older experiments, still standing: [cc-bench](https://github.com/thatmike1/cc-be
 
 #### the day job
 
-recently off a remote contract, 2024 to 2026: react and react native apps for clients i can't name. everything above is mine, built on my own time.
+recently off two and a half years on a remote contract: react and react native apps for clients i can't name. everything above is mine, built on my own time.
 
 reach me at misa.psencik@gmail.com or through the [portfolio](https://thatmike1.dev).
